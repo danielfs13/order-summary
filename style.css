@@ -1,0 +1,112 @@
+body{
+  background-color: hsl(225, 100%, 94%);
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+#CardCompleto{
+    background-color: hsl(225, 100%, 98%);
+    position:absolute;
+    border-radius: 5%;
+    width: 300px;
+    height: 525px;
+    margin-left: 22.5px;
+    margin-top: 50px;
+
+}
+
+#IlustracaoImg{
+width: 300px;
+border-radius: 5% 5% 0 0 ;
+}
+
+#Titulo{
+font-family: 'Red Hat Display', sans-serif;
+position: relative;
+text-align: center;
+bottom: 0vh;
+font-size: larger;
+font-weight: bolder;
+}
+
+#Principal{
+font-family: 'Red Hat Display', sans-serif;
+width: 250px;
+color: hsl(224, 23%, 55%);
+font-weight: 400;
+font-size: 14px;
+word-break: keep-all;
+position: relative;
+text-align: center;
+left: 3.8vh;
+bottom: 0vh;
+}
+
+#CardPlano{
+position: relative;
+background-color:rgba(228, 236, 248, 0.521);
+top: 2vh;
+width: 80%;
+left: 30px;
+border-radius: 5% 5% 5% 5%;
+height: 70px;
+}
+
+        #IconeImg{
+        position: relative;
+        bottom: 8vh;
+        left: 2vh;
+        }
+
+        #Plano{
+        position: relative;
+        text-align: center;
+        top: 2vh;
+        right: 1vh;
+        font-weight: bold;
+        font-size: 14px;
+        }
+
+        #Valor{
+        position: relative;
+        text-align: center;
+        right: 1vh;
+        font-size: 14px;
+        color: rgb(95, 95, 95);
+        }
+
+        #Change{
+        position: relative;
+        font-weight: bold;
+        float: right;    
+        bottom: 6vh;
+        right: 2vh;
+        font-size: 12px;
+        }
+
+#Pagamento{
+font-family: 'Red Hat Display', sans-serif;    
+color: white;
+border:none;
+border-radius: 5%;
+position: relative;
+top: 5vh;
+left:5vh;
+background-color: hsl(245, 75%, 52%);
+width: 241px;
+height: 40px;
+box-shadow: 0px 10px 10px rgb(177, 191, 241);
+
+}
+
+#Cancel{
+font-size: 14px;
+position: relative;
+color: gray;
+font-weight: 700;
+top: 7.5vh;
+left: 15.5vh;
+}
+
+#atributtion{
+width: 20px;
+}
